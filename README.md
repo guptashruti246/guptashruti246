@@ -13,11 +13,13 @@
 
 ## 🛠️ Tech Stack (Learning)
 - Linux
-- AWS (EC2, IAM, S3 basics)
+- AWS 
 - Docker
-- Kubernetes (beginner)
-- Terraform (beginner)
+- Kubernetes 
+- Terraform 
 - Git & GitHub
+- Ansible
+- Monitoring Tools
 
 ---
 
